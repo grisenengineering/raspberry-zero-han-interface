@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rpi-han-interface)(type KiCad)(uri ${KIPRJMOD}/rpi-han-interface.pretty)(options "")(descr ""))
+)
